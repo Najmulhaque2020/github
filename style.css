@@ -2,7 +2,13 @@
 img{
     max-width: 100%;
 }
-nav {
+#sticky {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+nav {    
     background: #24292e !important;
 }
 .octicon {
